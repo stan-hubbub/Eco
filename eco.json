@@ -400,11 +400,7 @@
     },
     "fontFamily": {
       "sans": {
-        "value": "SF Pro, system-ui, sans-serif",
-        "type": "fontFamilies"
-      },
-      "font-serif": {
-        "value": "ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif",
+        "value": "Inter, SF Pro, system-ui, sans-serif",
         "type": "fontFamilies"
       },
       "font-mono": {
@@ -473,7 +469,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Semibold",
+          "value": "Semi Bold",
           "type": "fontWeights"
         }
       },
@@ -483,7 +479,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Semibold Italic",
+          "value": "Semi Bold Italic",
           "type": "fontWeights"
         }
       },
@@ -493,7 +489,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Compressed Semibold",
+          "value": "Compressed Semi Bold",
           "type": "fontWeights"
         }
       },
@@ -503,7 +499,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Condensed Semibold",
+          "value": "Condensed Semi Bold",
           "type": "fontWeights"
         }
       },
@@ -513,7 +509,7 @@
           "type": "fontWeights"
         },
         "semibold": {
-          "value": "Expanded Semibold",
+          "value": "Expanded Semi Bold",
           "type": "fontWeights"
         }
       }
